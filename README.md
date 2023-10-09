@@ -1,7 +1,7 @@
 # The JWLI Website
 
 ### Description
-A fully-responsive mock-up of the Japanese Women's Leadership Initiative (JWLI) homepage.
+A responsive replica of the Japanese Women's Leadership Initiative homepage.
 
 <img src="jwli.png" alt="preview of my jwli website">
 
